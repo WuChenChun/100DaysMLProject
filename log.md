@@ -14,6 +14,6 @@ Classification : A Classification model predict discrete values, e.g. spam or no
 Mean Square Error(MSE) : Average of squared loss indicated the model prediction performance
 ```
 <p align ="center">
-<img src="https://latex.codecogs.com/svg.latex?MSE%20=\frac{1}{N}%20\sum_{(x,y)\in%20D}%20(y%20-%20prediction(x))^2%20x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" />
+<img src="https://latex.codecogs.com/svg.latex?MSE%20=\frac{1}{N}%20\sum_{(x,y)\in%20D}%20(y%20-%20prediction(x))^2" />
 </p>
 - Link of Resource : <a href="https://developers.google.com/machine-learning/crash-course/">Google Crash Course</a>
