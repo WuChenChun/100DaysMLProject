@@ -7,9 +7,10 @@
 
 ## Day 2 - Aug/10/2018
 - Today's Progress : Start Google Crash Course
-- Thought : Regression vs Classification
+- Thought : Regression vs Classification, MSE
 ```
 Regression : A Regression model predict continuous value, e.g. house price
 Classification : A Classification model predict discrete values, e.g. spam or not spam emails
+Mean Square Error(MSE) : MSE = \frac{1}{N} \sum_{(x,y)\in D} (y - prediction(x))^2
 ```
 - Link of Resource : <a href="https://developers.google.com/machine-learning/crash-course/">Google Crash Course</a>
