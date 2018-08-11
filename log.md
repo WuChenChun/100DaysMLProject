@@ -20,9 +20,8 @@ Mean Square Error(MSE) : Average of squared loss indicated the model prediction 
 </p>
 
 ## Day 3 - Aug/11/2018
-- Today's Progress : Google Crash Course - Reducing loss
+- Today's Progress : Google Crash Course
 - Link of Resource : <a href="https://developers.google.com/machine-learning/crash-course/reducing-loss/video-lecture">Reducing Loss</a>
-                     <a href="http://playground.tensorflow.org/">Neural Network Play Ground</a>
 - Summary :
 ```
 Reducing Loss : Instead of getting a formula to predict an exact solution, ML using iterative approach by evaluating Loss to train model and find solution.
@@ -30,6 +29,6 @@ Learning Rate (step size) : a scalar gradient descent algorithm will multiply by
 Gradient of function is the vector of partial derivatives with respect to all of the independent variables
 ```
 <p align ="center">
-<img src="https://latex.codecogs.com/svg.latex?f(x,y) = e^{2y}\sin(x)" />
+<img src="https://latex.codecogs.com/svg.latex?f(x,y) = e^{2y}\sin(x)" /><br>
 <img src="https://latex.codecogs.com/svg.latex?\nabla%20f(x,y)%20=%20\left(\frac{\partial%20f}{\partial%20x}(x,y),%20\frac{\partial%20f}{\partial%20y}(x,y)\right)%20=%20(e^{2y}\cos(x),%202e^{2y}\sin(x))" />
 </p>
