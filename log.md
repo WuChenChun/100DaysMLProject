@@ -29,6 +29,7 @@ Learning Rate (step size) : a scalar gradient descent algorithm will multiply by
 Gradient of function is the vector of partial derivatives with respect to all of the independent variables
 ```
 <p align ="center">
-<img src="https://latex.codecogs.com/svg.latex?f(x,y) = e^{2y}\sin(x)" /><br>
+<img src="https://latex.codecogs.com/svg.latex?f(x,y)%20=%20e^{2y}\sin(x)" />
+<br>
 <img src="https://latex.codecogs.com/svg.latex?\nabla%20f(x,y)%20=%20\left(\frac{\partial%20f}{\partial%20x}(x,y),%20\frac{\partial%20f}{\partial%20y}(x,y)\right)%20=%20(e^{2y}\cos(x),%202e^{2y}\sin(x))" />
 </p>
