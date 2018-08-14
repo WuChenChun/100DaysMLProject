@@ -40,9 +40,4 @@
 ## Day 4 - Aug/13/2018
 - Today's Progress : Google Crash Course
 - Link of Resource : <a href="https://developers.google.com/machine-learning/crash-course/first-steps-with-tensorflow/programming-exercises">First Step with TF</a>
-- Summary :
-```
-* <a href="https://colab.research.google.com/notebooks/mlcc/intro_to_pandas.ipynb?utm_source=mlcc&utm_campaign=colab-external&utm_medium=referral&utm_content=pandas-colab&hl=en#scrollTo=2l82PhPbwz7g">Intro to Pandas </a>
-* <a href="https://colab.research.google.com/notebooks/mlcc/first_steps_with_tensor_flow.ipynb?utm_source=mlcc&utm_campaign=colab-external&utm_medium=referral&utm_content=firststeps-colab&hl=en#scrollTo=ci1ISxxrZ7v0">First Step With TensorFlow </a>
-* <a href="https://colab.research.google.com/notebooks/mlcc/synthetic_features_and_outliers.ipynb?utm_source=mlcc&utm_campaign=colab-external&utm_medium=referral&utm_content=syntheticfeatures-colab&hl=en">Synthetic Features and Outliers </a>
-```
+- Link of Work : [a relative link]Work/intro_to_pandas.ipynb
