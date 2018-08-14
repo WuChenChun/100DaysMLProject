@@ -40,4 +40,5 @@
 ## Day 4 - Aug/13/2018
 - Today's Progress : Google Crash Course
 - Link of Resource : <a href="https://developers.google.com/machine-learning/crash-course/first-steps-with-tensorflow/programming-exercises">First Step with TF</a>
-- Link of Work : [a relative link]Work/intro_to_pandas.ipynb
+- Link of Work :
+  * <a href="Work/intro_to_pandas.ipynb"> Intro to Pandas</a>
