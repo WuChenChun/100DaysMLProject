@@ -41,4 +41,6 @@
 - Today's Progress : Google Crash Course
 - Link of Resource : <a href="https://developers.google.com/machine-learning/crash-course/first-steps-with-tensorflow/programming-exercises">First Step with TF</a>
 - Link of Work :
-  * <a href="Work/intro_to_pandas.ipynb"> Intro to Pandas</a>
+  * <a href="Work/intro_to_pandas.ipynb"> Quick Introduction to pandas.</a>
+  * <a href="Work/first_steps_with_tensor_flow.ipynb"> First Steps with TensorFlow.</a>
+  * <a href="Work/synthetic_features_and_outliers.ipynb"> Synthetic Features and Outliers.</a>
