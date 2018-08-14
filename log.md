@@ -36,3 +36,13 @@
 <br>
 <img src="https://latex.codecogs.com/svg.latex?\nabla%20f(x,y)%20=%20\left(\frac{\partial%20f}{\partial%20x}(x,y),%20\frac{\partial%20f}{\partial%20y}(x,y)\right)%20=%20(e^{2y}\cos(x),%202e^{2y}\sin(x))" />
 </p>
+
+## Day 4 - Aug/13/2018
+- Today's Progress : Google Crash Course
+- Link of Resource : <a href="https://developers.google.com/machine-learning/crash-course/first-steps-with-tensorflow/programming-exercises">First Step with TF</a>
+- Summary :
+```
+* <a href="https://colab.research.google.com/notebooks/mlcc/intro_to_pandas.ipynb?utm_source=mlcc&utm_campaign=colab-external&utm_medium=referral&utm_content=pandas-colab&hl=en#scrollTo=2l82PhPbwz7g">Intro to Pandas </a>
+* <a href="https://colab.research.google.com/notebooks/mlcc/first_steps_with_tensor_flow.ipynb?utm_source=mlcc&utm_campaign=colab-external&utm_medium=referral&utm_content=firststeps-colab&hl=en#scrollTo=ci1ISxxrZ7v0">First Step With TensorFlow </a>
+* <a href="https://colab.research.google.com/notebooks/mlcc/synthetic_features_and_outliers.ipynb?utm_source=mlcc&utm_campaign=colab-external&utm_medium=referral&utm_content=syntheticfeatures-colab&hl=en">Synthetic Features and Outliers </a>
+```
