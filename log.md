@@ -47,7 +47,7 @@
 
 ## Day 5 - Aug/15/2018
 - Today's Progress : Google Crash Course
-- Link of Resource : <a  https://developers.google.com/machine-learning/crash-course/generalization/peril-of-overfitting">Generalization</a>
+- Link of Resource : <a  href="https://developers.google.com/machine-learning/crash-course/generalization/peril-of-overfitting">Generalization</a>
 - Summary:
 ```
 * Overfitting is due to training a model that more complex than necessary
