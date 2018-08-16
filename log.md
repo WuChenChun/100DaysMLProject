@@ -44,3 +44,13 @@
   * <a href="Work/intro_to_pandas.ipynb"> Quick Introduction to pandas.</a>
   * <a href="Work/first_steps_with_tensor_flow.ipynb"> First Steps with TensorFlow.</a>
   * <a href="Work/synthetic_features_and_outliers.ipynb"> Synthetic Features and Outliers.</a>
+
+## Day 5 - Aug/15/2018
+- Today's Progress : Google Crash Course
+- Link of Resource : <a  https://developers.google.com/machine-learning/crash-course/generalization/peril-of-overfitting">Generalization</a>
+- Summary:
+```
+* Overfitting is due to training a model that more complex than necessary
+* The less complex the model is, the more likely a good empirical result rather than fitting peculiarities of the sample
+* Separate the dataset into train set and test set.
+```
