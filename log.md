@@ -54,3 +54,15 @@
 * The less complex the model is, the more likely a good empirical result rather than fitting peculiarities of the sample
 * Separate the dataset into train set and test set.
 ```
+
+## Day 6 - Aug/16/2018
+- Today's Progress : Google Crash Course
+- Link of Resource : <a  href="https://developers.google.com/machine-learning/crash-course/training-and-test-sets/splitting-data">Training and Test sets</a>
+- Summary:
+```
+* training sets : a subset of data to train model (80%)
+* test sets : a subset of data to test and evaluate model (20%)
+```
+- Link of Work :
+ * <a href="Work/tensorflow_programming_concepts.ipynb">Tensorflow Programming Conectps. </a>
+ * <a href="Work/creating_and_manipulating_tensors.ipynb"> Creating and manipulating tensors. </a>
