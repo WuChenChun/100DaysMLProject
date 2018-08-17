@@ -64,5 +64,5 @@
 * test sets : a subset of data to test and evaluate model (20%)
 ```
 - Link of Work :
- * <a href="Work/tensorflow_programming_concepts.ipynb">Tensorflow Programming Conectps. </a>
- * <a href="Work/creating_and_manipulating_tensors.ipynb"> Creating and manipulating tensors. </a>
+  * <a href="Work/tensorflow_programming_concepts.ipynb">Tensorflow Programming Conectps. </a>
+  * <a href="Work/creating_and_manipulating_tensors.ipynb"> Creating and manipulating tensors. </a>
