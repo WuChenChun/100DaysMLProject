@@ -66,3 +66,10 @@
 - Link of Work :
   * <a href="Work/tensorflow_programming_concepts.ipynb">Tensorflow Programming Conectps. </a>
   * <a href="Work/creating_and_manipulating_tensors.ipynb"> Creating and manipulating tensors. </a>
+
+  
+## Day 7 - Aug/17/2018
+- Today's Progress : Google Crash Course
+- Link of Resource : <a  href="https://developers.google.com/machine-learning/crash-course/validation/another-partition">Validation</a>
+- Link of Work :
+  * <a href="Work/validation.ipynb" Validation. </a>
