@@ -73,3 +73,21 @@
 - Link of Resource : <a  href="https://developers.google.com/machine-learning/crash-course/validation/another-partition">Validation</a>
 - Link of Work :
   * <a href="Work/validation.ipynb"> Validation. </a>
+
+## Day 8 - Aug/19/2018
+- Today's Progress : Google Crash course
+- Link of Resource : <a href="https://developers.google.com/machine-learning/crash-course/representation/feature-engineering"> Representation - Feature Engineering </a>
+- Summary:
+```
+* One-Hot encoding : transforming the text data into numerical data with each column has 0/1 representing the feature.
+* Sparse Representation : It only store nonzero value to prevent inefficient store, computation for one-hot encoding.
+* Quality of Good Feature
+  (1) A good feature usually appear more than 5 times so that model can make prediction with it.
+  (2) A good feature should have an obvious and clear meanings.
+  (3) Don't mix "magic" value with actual data (e.g. using -1 to represent None where actual is between 0 to 1)
+  (4) The definition of the feature shouldn't change over time.
+* Cleaning data
+  (1) Scaling Feature value, e.g. standarize example (from 100 to 900 -> 0 to 1)
+  (2) Scaling with Z score : scalableValue = (value - mean)/stddev, most of value will be between -3 to 3
+  (3) Binning value : some feature like latitude doesn't have linear relationship with house price -> use bin value.
+```
