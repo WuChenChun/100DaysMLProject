@@ -91,3 +91,15 @@
   (2) Scaling with Z score : scalableValue = (value - mean)/stddev, most of value will be between -3 to 3
   (3) Binning value : some feature like latitude doesn't have linear relationship with house price -> use bin value.
 ```
+
+## Day 9 - Aug/24/2018
+- Today's Progress : Google Crash course
+- Link of Resource : <a href="https://developers.google.com/machine-learning/crash-course/feature-crosses/video-lecture">Feature Crosses</a>
+- Summary:
+```
+* Linear learning scale well to massive data but would be limited due to linearity.
+* Feature Cross enable non-linearity in the model and represent non-linearity relationship.
+* Synthetic feature is a feature not from the input but created from one or more of them, e.g. bucketing or multiplying.
+```
+- Link of Work :
+  * <a href="Work/feature_sets.ipynb"> Feature Sets programming exercise</a>
