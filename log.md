@@ -103,3 +103,13 @@
 ```
 - Link of Work :
   * <a href="Work/feature_sets.ipynb"> Feature Sets programming exercise</a>
+
+## Day 10 - Aug/30/2018
+- Today's Progress : Google Crash Course
+- Link of Resource : <a href="https://developers.google.com/machine-learning/crash-course/regularization-for-simplicity/video-lecture">Regularization</a>
+- Summary:
+```
+Regularization : Instead of minimizing Loss, we minimized Loss + Complexity.
+How to evaluate model complexity ? It's a function of weight and measured by sum of them.
+Regularization Rate (lambda) : A scalar value, tuning the overall impact of the regularization term.
+```
